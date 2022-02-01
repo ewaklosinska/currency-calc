@@ -1,0 +1,1 @@
+Program uruchamia się w przeglądarce
